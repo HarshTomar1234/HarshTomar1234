@@ -1,6 +1,6 @@
 # Hi there, I'm Harsh Tomar! 👋
 
-![Header Image]([https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20Harsh's%20GitHub!&fontAlign=center&fontSize=40](https://lexica.art/prompt/744984a5-cd05-41cc-a7d1-2411b531c88a))
+![Header Image]((https://lexica.art/prompt/744984a5-cd05-41cc-a7d1-2411b531c88a))
 
 I'm a tech enthusiast and aspiring developer with a passion for AI and emerging technologies. I'm always eager to learn and build the future.
 
