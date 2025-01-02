@@ -1,6 +1,6 @@
 # Hi there, I'm Harsh Tomar! 👋
 
-![Header Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20Harsh's%20GitHub!&fontAlign=center&fontSize=40)
+![Header Image]([https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20Harsh's%20GitHub!&fontAlign=center&fontSize=40](https://lexica.art/prompt/744984a5-cd05-41cc-a7d1-2411b531c88a))
 
 I'm a tech enthusiast and aspiring developer with a passion for AI and emerging technologies. I'm always eager to learn and build the future.
 
@@ -11,9 +11,6 @@ I'm a tech enthusiast and aspiring developer with a passion for AI and emerging 
 - 🔭 I’m currently working on [FieldFusion](https://github.com/HarshTomar1234/Field_Fusion): A game-changing Computer Vision System that uses AI to decode the game, revealing hidden insights for coaches, players, and fans alike.
 - 🌱 I’m currently learning more about machine learning and deep learning techniques.
 - 💬 Ask me about AI, machine learning, and computer vision.
-- 📫 How to reach me:
-  - [LinkedIn](https://www.linkedin.com/in/harsh-tomar-a96a38256/)
-  - [Twitter](https://twitter.com/kernel_crush)
 - ⚡ Fun fact: I'm passionate about building innovative solutions that bridge the gap between technology and real-world applications.
 
 ---
@@ -21,12 +18,8 @@ I'm a tech enthusiast and aspiring developer with a passion for AI and emerging 
 ### 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" style="margin-right: 10px;"/>
 </p>
 
 ---
@@ -47,14 +40,14 @@ Here are some of my notable projects:
 - [Dog vs Cat Classifier](https://github.com/HarshTomar1234/DOG-VS-CAT-CLASSIFIER): A deep learning model to classify dog and cat images.
 
 ---
+
 ### 🌟 Connect with Me!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/harsh-tomar-a96a38256/" target="_blank">
+  <a href="https://www.linkedin.com/in/harsh-tomar-a96a38256/" target="_blank" style="margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://twitter.com/kernel_crush" target="_blank">
+  <a href="https://twitter.com/kernel_crush" target="_blank" style="margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
   </a>
 </p>
-
