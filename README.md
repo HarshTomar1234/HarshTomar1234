@@ -1,6 +1,6 @@
 # Hi there, I'm Harsh Tomar! 👋
 
-![Header Image]((https://lexica.art/prompt/744984a5-cd05-41cc-a7d1-2411b531c88a))
+![Header Image](https://lexica.art/prompt/744984a5-cd05-41cc-a7d1-2411b531c88a)
 
 I'm a tech enthusiast and aspiring developer with a passion for AI and emerging technologies. I'm always eager to learn and build the future.
 
@@ -37,7 +37,7 @@ Here are some of my notable projects:
 
 - [FieldFusion](https://github.com/HarshTomar1234/Field_Fusion): AI-driven Computer Vision System for sports analytics.
 - [Breast Cancer Prediction App](https://github.com/HarshTomar1234/BREAST-CANCER-STREAMLIT-APP): A Streamlit app for predicting breast cancer.
-- [Dog vs Cat Classifier](https://github.com/HarshTomar1234/DOG-VS-CAT-CLASSIFIER): A deep learning model to classify dog and cat images.
+
 
 ---
 
@@ -47,6 +47,7 @@ Here are some of my notable projects:
   <a href="https://www.linkedin.com/in/harsh-tomar-a96a38256/" target="_blank" style="margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
+  
   <a href="https://twitter.com/kernel_crush" target="_blank" style="margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
   </a>
