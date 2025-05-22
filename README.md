@@ -1,4 +1,5 @@
-# Hi there, I'm Harsh Tomar! 👋
+# Hi there, I'm Harsh Tomar! 👋  
+![Profile Views](https://komarev.com/ghpvc/?username=HarshTomar1234&label=Profile%20views&color=0e75b6&style=flat)
 
 I'm a tech enthusiast and aspiring developer with a passion for AI and emerging technologies. I'm always eager to learn and build the future.
 
@@ -24,8 +25,9 @@ I'm a tech enthusiast and aspiring developer with a passion for AI and emerging 
 
 ### 📈 GitHub Stats
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshTomar1234&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshTomar1234&layout=compact&theme=radical)
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshTomar1234&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshTomar1234&layout=compact&theme=radical)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=HarshTomar1234&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
@@ -35,7 +37,6 @@ Here are some of my notable projects:
 
 - [FieldFusion](https://github.com/HarshTomar1234/Field_Fusion): AI-driven Computer Vision System for sports analytics.
 - [Breast Cancer Prediction App](https://github.com/HarshTomar1234/BREAST-CANCER-STREAMLIT-APP): A Streamlit app for predicting breast cancer.
-
 
 ---
 
