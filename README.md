@@ -33,7 +33,8 @@ I'm a tech enthusiast and aspiring developer with a passion for AI and emerging 
 
 ### 📊 GitHub Activity Graph
 
-[![Harsh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshTomar1234&theme=radical)](https://github.com/HarshTomar1234/github-readme-activity-graph)
+[![Harsh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshTomar1234&theme=radical)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
