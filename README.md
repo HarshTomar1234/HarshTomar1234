@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI+systems+that+see%2C+understand+and+learn;Computer+Vision+%7C+Generative+AI+%7C+Research;Turning+research+papers+into+working+code;Passionate+about+AI+and+emerging+technologies" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HarshTomar1234&label=Profile%20views&color=00d9ff&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/HarshTomar1234?label=Followers&style=for-the-badge&color=00d9ff)](https://github.com/HarshTomar1234)
 [![GitHub stars](https://img.shields.io/github/stars/HarshTomar1234?label=Stars&style=for-the-badge&color=ffd700)](https://github.com/HarshTomar1234)
 
 </div>
