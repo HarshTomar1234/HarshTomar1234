@@ -18,14 +18,13 @@
 class HarshTomar:
     def __init__(self):
         self.name = "Harsh Tomar"
-        self.role = "AI/ML Engineer & Computer Vision Specialist"
-        self.location = "India 🇮🇳"
+        self.role = "AI/ML Engineer & Computer Vision explorer"
         self.education = "B.Tech AI & Data Science"
         self.passion = "Building innovative AI solutions"
         
     def current_focus(self):
         return [
-            "🔬 Advanced computer vision applications", 
+            "🔬 Computer vision tech & applications", 
             "🤖 AI agent development frameworks",
             "📚 Implementing cutting-edge research papers",
             "🧠 Generative AI and LLM applications"
