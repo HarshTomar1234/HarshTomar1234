@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Harsh Tomar 
+#  kernel_crush 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI+systems+that+see%2C+understand+and+learn;Computer+Vision+%7C+Generative+AI+%7C+Research;Turning+research+papers+into+working+code;Passionate+about+AI+and+emerging+technologies" alt="Typing SVG" />
 
