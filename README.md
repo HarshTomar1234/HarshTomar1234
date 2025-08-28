@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Harsh Tomar | AI Architect & Vision Engineer
+#  Harsh Tomar | AI Architect & Vision Engineer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI+systems+that+see%2C+understand+and+learn;Computer+Vision+%7C+Generative+AI+%7C+Research;Turning+research+papers+into+working+code;Passionate+about+AI+and+emerging+technologies" alt="Typing SVG" />
 
@@ -255,7 +255,7 @@ Comprehensive guide for building intelligent agents using CrewAI, PhiData, and s
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-tomar-28303)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-tomar-a96a38256/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/kernel_crush)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshTomar1234)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomarharsh28303@gmail.com)
