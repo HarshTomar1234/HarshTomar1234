@@ -2,7 +2,7 @@
 
 # 🚀 Harsh Tomar | AI Architect & Vision Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+see%2C+understand%2C+and+learn;Computer+Vision+%7C+Generative+AI+%7C+Research;Turning+research+papers+into+working+code;AI+Intern+%40+i3+Digital+Health" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI+systems+that+see%2C+understand+and+learn;Computer+Vision+%7C+Generative+AI+%7C+Research;Turning+research+papers+into+working+code;Passionate+about+AI+and+emerging+technologies" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HarshTomar1234&label=Profile%20views&color=00d9ff&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/HarshTomar1234?label=Followers&style=for-the-badge&color=00d9ff)](https://github.com/HarshTomar1234)
@@ -20,19 +20,22 @@ class HarshTomar:
         self.name = "Harsh Tomar"
         self.role = "AI/ML Engineer & Computer Vision Specialist"
         self.location = "India 🇮🇳"
-        self.current_work = "AI Intern @ i3 Digital Health"
         self.education = "B.Tech AI & Data Science"
+        self.passion = "Building innovative AI solutions"
         
     def current_focus(self):
         return [
-            "🔬 Research profiling systems with RAG",
-            "👁️ Advanced computer vision applications", 
+            "🔬 Advanced computer vision applications", 
             "🤖 AI agent development frameworks",
-            "📚 Implementing cutting-edge research papers"
+            "📚 Implementing cutting-edge research papers",
+            "🧠 Generative AI and LLM applications"
         ]
     
-    def life_philosophy(self):
-        return "Turning curiosity into code, research into reality! 🚀"
+    def interests(self):
+        return [
+            "Computer Vision", "Deep Learning", "Research Implementation",
+            "AI Agents", "Generative AI", "Open Source"
+        ]
 ```
 
 ---
@@ -116,6 +119,18 @@ class HarshTomar:
 > 
 > `Scikit-learn` `Streamlit` `Healthcare AI` `Medical Diagnosis`
 
+### ✈️ [Travel Planner](https://github.com/HarshTomar1234/Travel-Planner)
+**Intelligent Travel Assistant**
+> AI-powered travel planning application built with Google Agent Development Kit
+> 
+> `Google ADK` `Streamlit` `AI Agents` `Travel Tech`
+
+### 🗓️ [Elena Calendar Assistant](https://github.com/HarshTomar1234/Calendar-Voice-Assistant)
+**Voice-Powered Calendar Management**
+> Smart voice assistant for Google Calendar management using advanced AI agents
+> 
+> `Google ADK` `Voice AI` `Calendar API` `Natural Language Processing`
+
 </div>
 
 ---
@@ -171,6 +186,20 @@ Comprehensive guide for building intelligent agents using CrewAI, PhiData, and s
 
 ---
 
+## 🧪 AI Framework Experiments
+
+<div align="center">
+
+| Repository | Description | Framework |
+|------------|-------------|-----------|
+| [🤖 AgentForge](https://github.com/HarshTomar1234/AgentForge) | Building AI agents with modern frameworks | **CrewAI, PhiData** |
+| [🔧 Google ADK Experiments](https://github.com/HarshTomar1234/Google-Agent-Development-kit-ADK-) | Exploring Google's Agent Development Kit | **Google ADK** |
+| [🌐 MCP Server Experiments](https://github.com/HarshTomar1234/mcp-servers-experiments) | Model Context Protocol server implementations | **MCP Protocol** |
+
+</div>
+
+---
+
 ## 📚 Learning Repositories
 
 <div align="center">
@@ -186,21 +215,16 @@ Comprehensive guide for building intelligent agents using CrewAI, PhiData, and s
 
 ---
 
-## 💼 Professional Experience
+## 📝 Technical Writings
 
-### 🏥 **AI Intern** @ i3 Digital Health
-*May 2025 - Present*
-- 🔬 Architecting intelligent research profiling systems
-- 🌐 Building NLP pipelines with LangChain and RAG
-- 📊 Integrating PubMed, ResearchGate, and Google Scholar APIs
-- 🤖 Developing AI agents for healthcare applications
+<div align="center">
 
-### 🌐 **Community Contributor** @ CNCF & Google Developer Groups  
-*January 2023 - Present*
-- ☁️ Active in Cloud Native Computing Foundation
-- 🚀 Google Developer Groups collaborator
-- 🎯 Participating in hackathons and tech talks
-- 🤝 Contributing to open-source discussions
+| Article | Topic | Status |
+|---------|-------|--------|
+| [🎾 Tennis Vision Deep Dive](https://www.notion.so/Tennis-Vision-25b4df040c1480d1840ad41d281672f3) | Computer Vision in Sports | 🚧 In Progress |
+| [🧠 Reasoning in LLMs from Scratch](https://www.notion.so/Core-Concepts-of-Reasoning-in-LLMs-from-Scratch-1de4df040c14804b9b64f034e181aa75) | LLM Reasoning Capabilities | 🚧 In Progress |
+
+</div>
 
 ---
 
@@ -227,32 +251,6 @@ Comprehensive guide for building intelligent agents using CrewAI, PhiData, and s
 
 ---
 
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-🎓 **Machine Learning Specialization** - Udemy (November 2024)  
-☁️ **Generative AI Certification** - Google Cloud Skills (December 2024)  
-⭐ **21 Stars** on Tennis Vision Project  
-🤝 **Active Contributor** in CNCF & GDG Communities  
-
-</div>
-
----
-
-## 📝 Technical Writings
-
-<div align="center">
-
-| Article | Topic | Status |
-|---------|-------|--------|
-| [🎾 Tennis Vision Deep Dive](https://www.notion.so/Tennis-Vision-25b4df040c1480d1840ad41d281672f3) | Computer Vision in Sports | 🚧 In Progress |
-| [🧠 Reasoning in LLMs from Scratch](https://www.notion.so/Core-Concepts-of-Reasoning-in-LLMs-from-Scratch-1de4df040c14804b9b64f034e181aa75) | LLM Reasoning Capabilities | 🚧 In Progress |
-
-</div>
-
----
-
 ## 🌟 Connect & Collaborate
 
 <div align="center">
@@ -269,9 +267,7 @@ Comprehensive guide for building intelligent agents using CrewAI, PhiData, and s
 
 <div align="center">
 
-### 💭 *"Building AI systems that see, understand, and learn - one commit at a time!"*
-
-**⚡ Fun Fact:** I turn research papers into working code faster than you can say "transformer architecture"! 🚀
+### 💭 *"Turning curiosity into code, research into reality!"*
 
 ---
 
