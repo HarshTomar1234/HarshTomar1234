@@ -190,7 +190,7 @@ Comprehensive guide for building intelligent agents using CrewAI, PhiData, and s
 
 | Repository | Description | Framework |
 |------------|-------------|-----------|
-| [🤖 AgentForge](https://github.com/HarshTomar1234/AgentForge) | Building AI agents with modern frameworks | **CrewAI, PhiData** |
+| [🤖 AgentForge](https://github.com/HarshTomar1234/AgentForge) | Building AI agents with modern frameworks | **CrewAI, LangGraph** |
 | [🔧 Google ADK Experiments](https://github.com/HarshTomar1234/Google-Agent-Development-kit-ADK-) | Exploring Google's Agent Development Kit | **Google ADK** |
 | [🌐 MCP Server Experiments](https://github.com/HarshTomar1234/mcp-servers-experiments) | Model Context Protocol server implementations | **MCP Protocol** |
 
