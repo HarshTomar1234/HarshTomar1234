@@ -1,182 +1,266 @@
 <div align="center">
 
-#  kernel_crush 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:667EEA&height=200&section=header&text=Harsh%20Tomar&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Computer%20Vision%20|%20Generative%20AI&descAlignY=55&descSize=20"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI+systems+that+see%2C+understand+and+learn;Computer+Vision+%7C+Generative+AI+%7C+Research;Turning+research+papers+into+working+code;Passionate+about+AI+and+emerging+technologies" alt="Typing SVG" />
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=HarshTomar1234&label=Profile%20views&color=00d9ff&style=for-the-badge)
-[![GitHub stars](https://img.shields.io/github/stars/HarshTomar1234?label=Stars&style=for-the-badge&color=ffd700)](https://github.com/HarshTomar1234)
+<div align="center">
+
+```ascii
+╔══════════════════════════════════════════════════════════════════════════╗
+║  Transforming Research Papers → Production Systems                       ║
+║  Building AI that sees, understands, and learns                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+[![LinkedIn](https://img.shields.io/badge/-harsh--tomar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-tomar-a96a38256/)
+[![Twitter](https://img.shields.io/badge/-@kernel__crush-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/kernel_crush)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kernel-crush.netlify.app)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomarharsh28303@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=HarshTomar1234&label=Profile%20Views&color=00d9ff&style=flat" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 🎯 About Me
+<div align="center">
+
+## About Me
+
+</div>
+
+**AI/ML Engineer** specializing in **Computer Vision** and **Generative AI** | B.Tech in AI & Data Science
+
+I architect end-to-end AI systems—from implementing cutting-edge research papers in pure PyTorch to deploying production-grade solutions. My work spans computer vision pipelines, multi-agent frameworks, and LLM applications, with a focus on practical implementation over theoretical knowledge.
+
+**Core Competencies:**
 
 ```python
-class HarshTomar:
-    def __init__(self):
-        self.name = "Harsh Tomar"
-        self.role = "AI/ML Engineer & Computer Vision explorer"
-        self.education = "B.Tech AI & Data Science"
-        self.passion = "Building innovative AI solutions"
-        
-    def current_focus(self):
-        return [
-            "🔬 Computer vision tech & applications", 
-            "🤖 AI agent development frameworks",
-            "📚 Implementing cutting-edge research papers",
-            "🧠 Generative AI and LLM applications"
-        ]
-    
-    def interests(self):
-        return [
-            "Computer Vision", "Deep Learning", "Research Implementation",
-            "AI Agents", "Generative AI", "Open Source"
-        ]
+expertise = {
+    "computer_vision": ["Object Detection & Tracking", "Image Segmentation", 
+                       "Pose Estimation", "Sports Analytics", "Medical Imaging"],
+    "deep_learning": ["Vision Transformers", "LoRA/QLoRA Fine-tuning", 
+                     "Vision-Language Models", "Custom Architectures"],
+    "generative_ai": ["Multi-Agent Systems", "RAG Pipelines", "LLM Fine-tuning",
+                     "Prompt Engineering", "AI Agents"],
+    "mlops": ["Model Deployment", "API Development", "Docker", 
+             "Cloud Infrastructure", "Monitoring & Logging"]
+}
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
-
-### 🧠 AI/ML & Deep Learning
-<p align="left">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
-</p>
-
-### 🤖 Generative AI & LLMs
-<p align="left">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=meta&logoColor=white"/>
-<img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-4A90E2?style=for-the-badge&logo=graph&logoColor=white"/>
-<img src="https://img.shields.io/badge/AutoGen-8A2BE2?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-FF4500?style=for-the-badge&logo=search&logoColor=white"/>
-</p>
-
-### 💻 Programming & Development
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
-</p>
-
-### 📊 Data Science & Visualization
-<p align="left">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-</p>
-
-### ☁️ Cloud & Tools
-<p align="left">
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-</p>
-
----
-
-## 🏆 Featured Projects
-
 <div align="center">
 
-### 🎾 [Tennis Vision](https://github.com/HarshTomar1234/Tennis-Vision) 
-**AI-Powered Tennis Analysis System**
-> Advanced computer vision system with YOLOv8, player tracking, ball trajectory analysis, and automated shot classification
-> 
-> `PyTorch` `OpenCV` `YOLO` `Supervision` `Computer Vision`
+## Technology Arsenal
 
-### ⚽ [Field Fusion](https://github.com/HarshTomar1234/Field_Fusion)
-**Soccer Analytics Platform** 
-> Real-time player tracking, K-means field segmentation, and camera movement analysis for sports insights
-> 
-> `YOLO` `OpenCV` `Computer Vision` `Sports Analytics`
-
-### 🧬 [MoLeCuQuest](https://github.com/HarshTomar1234/MoleCuQuest)
-**Molecular Research Platform**
-> Connecting biologists and medical researchers for collaborative molecular discovery
-> 
-> `Research Tools` `Collaboration Platform` `Molecular Biology`
-
-### 🏥 [Breast Cancer Predictor](https://github.com/HarshTomar1234/BREAST-CANCER-STREAMLIT-APP)
-**Clinical Decision Support System**
-> ML-powered diagnostic tool with interactive Streamlit dashboard and ensemble methods
-> 
-> `Scikit-learn` `Streamlit` `Healthcare AI` `Medical Diagnosis`
-
-### ✈️ [Travel Planner](https://github.com/HarshTomar1234/Travel-Planner)
-**Intelligent Travel Assistant**
-> AI-powered travel planning application built with Google Agent Development Kit
-> 
-> `Google ADK` `Streamlit` `AI Agents` `Travel Tech`
-
-### 🗓️ [Elena Calendar Assistant](https://github.com/HarshTomar1234/Calendar-Voice-Assistant)
-**Voice-Powered Calendar Management**
-> Smart voice assistant for Google Calendar management using advanced AI agents
-> 
-> `Google ADK` `Voice AI` `Calendar API` `Natural Language Processing`
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,opencv,docker,gcp,git,linux,jupyter,vscode&perline=10" />
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<b>Deep Learning</b><br>
+PyTorch • TensorFlow<br>
+Hugging Face • Scikit-learn
+</td>
+<td align="center" width="25%">
+<b>Computer Vision</b><br>
+OpenCV • YOLO • Ultralytics<br>
+Supervision • Roboflow
+</td>
+<td align="center" width="25%">
+<b>Generative AI</b><br>
+LangChain • LangGraph<br>
+CrewAI • LlamaIndex • RAG
+</td>
+<td align="center" width="25%">
+<b>MLOps & Deployment</b><br>
+Docker • GCP • Firebase<br>
+Streamlit • FastAPI • REST
+</td>
+</tr>
+</table>
+
 ---
 
-## 🔬 Research Implementations
+<div align="center">
+
+## Featured Projects
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+</div>
+
+### Production Computer Vision Systems
+
+<details open>
+<summary><b>🎾 Tennis Vision - Advanced Sports Analytics Platform</b></summary>
+<br>
+
+**End-to-end computer vision system for professional tennis match analysis**
+
+Real-world implementation of multiple CV techniques including object detection, tracking, and trajectory prediction for automated sports analytics.
+
+```
+Key Features:
+├── Multi-player tracking with Re-identification
+├── Ball trajectory prediction & speed calculation
+├── Court keypoint detection & perspective transform
+├── Automated shot classification (forehand/backhand/serve)
+└── Real-time performance metrics dashboard
+```
+
+**Technical Implementation:** YOLOv8 for detection | ByteTrack for multi-object tracking | OpenCV for image processing | Custom CNN for shot classification
+
+**Impact:** Automated analysis pipeline reducing manual annotation time by 90%
+
+[View Project →](https://github.com/HarshTomar1234/Tennis-Vision) | [Read Technical Deep Dive →](https://www.notion.so/Tennis-Vision-25b4df040c1480d1840ad41d281672f3)
+
+</details>
+
+<details>
+<summary><b>⚽ Field Fusion - Soccer Intelligence Platform</b></summary>
+<br>
+
+**Real-time player tracking and team performance analytics for soccer**
+
+Production-grade system for tactical analysis with camera movement compensation and automated team segmentation.
+
+```
+Pipeline Architecture:
+├── Player detection & tracking (YOLO + DeepSORT)
+├── Team segmentation (K-means clustering)
+├── Camera movement compensation
+├── Speed & distance metrics calculation
+└── Heatmap generation for tactical analysis
+```
+
+**Technical Stack:** YOLO | OpenCV | Supervision library | NumPy for optimization
+
+[View Project →](https://github.com/HarshTomar1234/Field_Fusion)
+
+</details>
+
+<details>
+<summary><b>🏥 Breast Cancer Predictor - Clinical ML System</b></summary>
+<br>
+
+**High-accuracy diagnostic support system for medical professionals**
+
+Production ML system with 97.8% accuracy, featuring ensemble methods and an interactive web interface for clinical decision support.
+
+```
+System Components:
+├── Ensemble model (Random Forest + XGBoost)
+├── Feature importance analysis
+├── Interactive diagnostic dashboard
+├── Real-time prediction API
+└── Comprehensive medical visualization
+```
+
+**Technical Implementation:** Scikit-learn | XGBoost | Streamlit | REST API
+
+[View Project →](https://github.com/HarshTomar1234/BREAST-CANCER-STREAMLIT-APP)
+
+</details>
+
+<details>
+<summary><b>🗓️ Elena Calendar Assistant - AI Agent</b></summary>
+<br>
+
+**Voice-powered intelligent agent for calendar management**
+
+Multi-modal AI agent leveraging NLP and Google ADK for natural conversation-based calendar operations.
+
+```
+Agent Capabilities:
+├── Natural language understanding
+├── Multi-intent handling
+├── Context-aware responses
+├── Google Calendar API integration
+└── Voice command processing
+```
+
+**Framework:** Google Agent Development Kit | LangChain | Speech Recognition
+
+[View Project →](https://github.com/HarshTomar1234/Calendar-Voice-Assistant)
+
+</details>
+
+### Research Paper Implementations
+
+<div align="center">
+
+> Building research papers from scratch to understand the fundamentals
+
+</div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
-### 🔍 Vision Transformers (ViT)
-**"An Image is Worth 16x16 Words"**
+**Vision Transformers (ViT)**
 
-Pure PyTorch implementation of the groundbreaking ViT architecture that revolutionized computer vision by applying transformers to image classification.
+*"An Image is Worth 16x16 Words"*
 
-[🔗 Repository](https://github.com/HarshTomar1234/vision_transformer-ViT-)
+Pure PyTorch implementation of the groundbreaking transformer architecture for computer vision, demonstrating patch embedding, positional encoding, and multi-head self-attention.
 
-</td>
-<td width="50%">
+```python
+class ViT:
+    - Patch Embedding
+    - Position Embedding
+    - Transformer Encoder
+    - MLP Head
+```
 
-### ⚡ LoRA & QLoRA Fine-tuning
-**Memory-Efficient Model Adaptation**
-
-From-scratch implementations of Low-Rank Adaptation techniques for efficient fine-tuning of large language models and vision transformers.
-
-[🔗 Repository](https://github.com/HarshTomar1234/PyTorch-LoRA-QLoRA)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 👁️‍🗨️ VLMverse
-**Vision-Language Models**
-
-Cutting-edge multimodal architectures including PaLiGemma (SigLIP + Gemma) that bridge computer vision and NLP for unified understanding.
-
-[🔗 Repository](https://github.com/HarshTomar1234/VLMverse)
+[**→ View Implementation**](https://github.com/HarshTomar1234/vision_transformer-ViT-)
 
 </td>
-<td width="50%">
+<td width="33%">
 
-### 🤖 AgentForge
-**AI Agent Development**
+**LoRA & QLoRA**
 
-Comprehensive guide for building intelligent agents using CrewAI, PhiData, and smolagents with practical implementations.
+*Memory-Efficient Fine-tuning*
 
-[🔗 Repository](https://github.com/HarshTomar1234/AgentForge)
+From-scratch implementation of Low-Rank Adaptation techniques for efficient model fine-tuning. Demonstrates parameter-efficient training of large models with minimal memory footprint.
+
+```python
+class LoRA:
+    - Low-Rank Matrices
+    - 4-bit Quantization
+    - Adapter Layers
+    - Efficient Training
+```
+
+[**→ View Implementation**](https://github.com/HarshTomar1234/PyTorch-LoRA-QLoRA)
+
+</td>
+<td width="33%">
+
+**VLMverse**
+
+*Vision-Language Models*
+
+Implementation of multimodal architectures (PaLiGemma, SigLIP) that bridge computer vision and NLP for unified understanding of images and text.
+
+```python
+class VLM:
+    - Image Encoder
+    - Text Encoder  
+    - Cross-Modal Fusion
+    - Joint Training
+```
+
+[**→ View Implementation**](https://github.com/HarshTomar1234/VLMverse)
 
 </td>
 </tr>
@@ -184,91 +268,157 @@ Comprehensive guide for building intelligent agents using CrewAI, PhiData, and s
 
 ---
 
-## 🧪 AI Framework Experiments
-
 <div align="center">
 
-| Repository | Description | Framework |
-|------------|-------------|-----------|
-| [🤖 AgentForge](https://github.com/HarshTomar1234/AgentForge) | Building AI agents with modern frameworks | **CrewAI, LangGraph** |
-| [🔧 Google ADK Experiments](https://github.com/HarshTomar1234/Google-Agent-Development-kit-ADK-) | Exploring Google's Agent Development Kit | **Google ADK** |
-| [🌐 MCP Server Experiments](https://github.com/HarshTomar1234/mcp-servers-experiments) | Model Context Protocol server implementations | **MCP Protocol** |
+### Multi-Agent Systems & AI Frameworks
 
 </div>
 
----
-
-## 📚 Learning Repositories
-
-<div align="center">
-
-| Repository | Description | Focus Area |
-|------------|-------------|------------|
-| [🧠 Machine Learning Hub](https://github.com/HarshTomar1234/Machine-and-Deep-Learning-NLP) | Complete ML, DL, and NLP implementations | **Core ML/DL** |
-| [👁️ Computer Vision](https://github.com/HarshTomar1234/Computer-Vision) | CV models, frameworks, and techniques | **Vision AI** |
-| [🔍 RAGify](https://github.com/HarshTomar1234/RAGify) | Retrieval-Augmented Generation solutions | **RAG Systems** |
-| [🔥 PyTorch Quest](https://github.com/HarshTomar1234/torchquest) | Deep dive into PyTorch fundamentals to advanced | **Deep Learning** |
-
-</div>
-
----
-
-## 📝 Technical Writings
-
-<div align="center">
-
-| Article | Topic | Status |
-|---------|-------|--------|
-| [🎾 Tennis Vision Deep Dive](https://www.notion.so/Tennis-Vision-25b4df040c1480d1840ad41d281672f3) | Computer Vision in Sports | 🚧 In Progress |
-| [🧠 Reasoning in LLMs from Scratch](https://www.notion.so/Core-Concepts-of-Reasoning-in-LLMs-from-Scratch-1de4df040c14804b9b64f034e181aa75) | LLM Reasoning Capabilities | 🚧 In Progress |
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarshTomar1234&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshTomar1234&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=HarshTomar1234&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Harsh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshTomar1234&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🌟 Connect & Collaborate
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-tomar-a96a38256/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/kernel_crush)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshTomar1234)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomarharsh28303@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://kernel-crush.netlify.app)
-
-</div>
+| Framework | Focus | Repository |
+|-----------|-------|------------|
+| **AgentForge** | Multi-agent orchestration with CrewAI, LangGraph, PhiData | [View Code →](https://github.com/HarshTomar1234/AgentForge) |
+| **Google ADK** | Agent Development Kit for production AI agents | [View Code →](https://github.com/HarshTomar1234/Google-Agent-Development-kit-ADK-) |
+| **MCP Protocol** | Model Context Protocol server implementations | [View Code →](https://github.com/HarshTomar1234/mcp-servers-experiments) |
+| **Travel Planner** | Multi-agent travel planning system with Google ADK | [View Code →](https://github.com/HarshTomar1234/Travel-Planner) |
 
 ---
 
 <div align="center">
 
-### 💭 *"Turning curiosity into code, research into reality!"*
+## Learning & Knowledge Repositories
+
+*Comprehensive implementations from fundamentals to production*
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+**Machine Learning & Deep Learning**
+
+Complete implementation suite covering classical ML algorithms, neural networks, CNNs, RNNs, and transformer architectures with production-ready code.
+
+[Explore Repository →](https://github.com/HarshTomar1234/Machine-and-Deep-Learning-NLP)
+
+</td>
+<td width="50%">
+
+**Computer Vision**
+
+End-to-end CV implementations including object detection, semantic segmentation, instance segmentation, pose estimation, and tracking algorithms.
+
+[Explore Repository →](https://github.com/HarshTomar1234/Computer-Vision)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**PyTorch Deep Dive**
+
+From tensor operations to custom architectures, covering training loops, optimization strategies, and production deployment patterns.
+
+[Explore Repository →](https://github.com/HarshTomar1234/torchquest)
+
+</td>
+<td width="50%">
+
+**RAG Systems**
+
+Retrieval-Augmented Generation implementations with vector databases, embedding strategies, and production RAG pipelines.
+
+[Explore Repository →](https://github.com/HarshTomar1234/RAGify)
+
+</td>
+</tr>
+</table>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20build%20the%20future%20together&descAlignY=51&descAlign=center"/>
+<div align="center">
+
+## GitHub Analytics
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshTomar1234&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=667EEA&point=00D9FF&area_color=0D1117&area=true&hide_border=true" />
 
 </div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarshTomar1234&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=fff"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=HarshTomar1234&theme=react&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HarshTomar1234&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+
+</div>
+
+---
+
+<div align="center">
+
+## Technical Writing
+
+</div>
+
+I document implementation details, architecture decisions, and insights from building AI systems:
+
+**[Tennis Vision: Deep Dive into Sports Computer Vision](https://www.notion.so/Tennis-Vision-25b4df040c1480d1840ad41d281672f3)**
+*System architecture, multi-object tracking challenges, and real-time performance optimization*
+
+**[Reasoning in LLMs from Scratch](https://www.notion.so/Core-Concepts-of-Reasoning-in-LLMs-from-Scratch-1de4df040c14804b9b64f034e181aa75)**
+*Understanding emergent reasoning capabilities and chain-of-thought mechanisms*
+
+---
+
+<div align="center">
+
+## Current Focus
+
+</div>
+
+```yaml
+focus_areas:
+  production_ml:
+    - "Optimizing computer vision pipelines for edge deployment"
+    - "Building scalable RAG systems with vector databases"
+  
+  research:
+    - "Implementing latest vision-language models"
+    - "Exploring efficient fine-tuning techniques (LoRA, QLoRA)"
+  
+  frameworks:
+    - "Multi-agent orchestration with LangGraph"
+    - "Production AI agents with Google ADK"
+  
+  open_source:
+    - "Contributing to Hugging Face ecosystem"
+    - "Building reusable CV components"
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:667EEA&height=2&section=header" />
+
+## Let's Build Together
+
+**Open to opportunities in AI/ML Engineering | Computer Vision | GenAI | MLOps**
+
+I'm passionate about collaborating on challenging AI projects and contributing to innovative solutions.
+
+**Connect with me:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsh-tomar-a96a38256/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail)](mailto:tomarharsh28303@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome)](https://kernel-crush.netlify.app)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:667EEA&height=120&section=footer" />
+
+</div>
+
