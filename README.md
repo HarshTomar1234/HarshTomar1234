@@ -674,13 +674,133 @@ research_interests = {
 
 <div align="center">
 
-## Snake eating my contributions 🐍
+## 3D Contribution Visualization 🧠
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshTomar1234/HarshTomar1234/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshTomar1234/HarshTomar1234/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HarshTomar1234/HarshTomar1234/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100">
+
+### Interactive 3D Contribution Landscape
+
+*Your contributions visualized as a stunning 3D neural terrain - where each peak represents deep learning in action*
+
+<img src="https://raw.githubusercontent.com/HarshTomar1234/HarshTomar1234/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+
+<br>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🔥 Neural Network in Action
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+**Input Layer → Hidden Layers → Output Layer**
+
+*Processing contributions through deep neural networks*
+
+</td>
+<td width="50%" align="center">
+
+### 🎯 Computer Vision Pipeline
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+```mermaid
+graph TD
+    A[📊 GitHub Contributions] --> B[🔍 Feature Extraction]
+    B --> C[🎨 Image Processing]
+    C --> D[🧠 Neural Network]
+    D --> E[🎯 Object Detection]
+    E --> F[📈 Model Deployment]
+    F --> G[🚀 Production]
+    
+    style A fill:#00D9FF,stroke:#667EEA,stroke-width:3px,color:#000
+    style D fill:#667EEA,stroke:#00D9FF,stroke-width:3px,color:#fff
+    style G fill:#00D9FF,stroke:#667EEA,stroke-width:3px,color:#000
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 👁️ Vision Transformers
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
+
+**Attention Mechanism**
+```
+Patches → Embeddings
+    ↓
+Multi-Head Attention
+    ↓
+Feed Forward NN
+    ↓
+Classification
+```
+
+</td>
+<td width="33%" align="center">
+
+### 🎯 Object Detection
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+
+**YOLO Pipeline**
+```
+Image Input
+    ↓
+CNN Backbone
+    ↓
+Detection Head
+    ↓
+Bounding Boxes
+```
+
+</td>
+<td width="33%" align="center">
+
+### 🧬 Deep Learning
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
+
+**Training Loop**
+```
+Forward Pass
+    ↓
+Loss Calculation
+    ↓
+Backpropagation
+    ↓
+Optimization
+```
+
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<div align="center">
+
+### 🌈 Contribution Processing Through Neural Layers
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
+
+</div>
+
+<br>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=header&text=AI%20●%20Computer%20Vision%20●%20Neural%20Networks&fontSize=25&fontColor=fff&animation=twinkling" width="100%">
+</p>
 
 </div>
 
