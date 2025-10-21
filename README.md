@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:667EEA&height=280&section=header&text=Harsh%20Tomar&fontSize=90&fontAlignY=35&desc=AI%20Engineer%20%7C%20Computer%20Vision%20Specialist%20%7C%20GenAI%20Developer&descSize=20&descAlignY=55&animation=twinkling&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:667EEA&height=280&section=header&text=Harsh%20Tomar&fontSize=90&fontAlignY=35&desc=AI%20Engineer%20%7C%20Deep%20Learning%20%7C%20GenAI%20Developer&descSize=20&descAlignY=55&animation=twinkling&fontColor=fff" />
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&height=60&lines=Building+Production-Ready+AI+Systems;Computer+Vision+%7C+Deep+Learning+%7C+GenAI;Transforming+Research+Papers+→+Production;Building+AI+that+sees%2C+understands%2C+and+learns" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=900&height=60&lines=Building+Production-Ready+AI+Systems;Implementing+Research+Papers+in+PyTorch;Computer+Vision+%7C+Deep+Learning+%7C+GenAI;Experimenting+with+AI+%26+Learning+Every+Day" alt="Typing SVG" /></a>
 
 <br>
 
@@ -19,7 +17,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 ```python
 class HarshTomar:
@@ -33,64 +31,74 @@ class HarshTomar:
     def expertise(self):
         return {
             "computer_vision": [
-                "Object Detection & Tracking",
-                "Image Segmentation",
+                "Object Detection & Tracking (YOLO, RCNN)",
+                "Image Segmentation (Semantic, Instance)",
                 "Pose Estimation",
-                "Sports Analytics",
-                "Medical Imaging"
+                "Sports Analytics Systems",
+                "Medical Imaging Applications"
             ],
             "deep_learning": [
-                "Vision Transformers",
-                "LoRA/QLoRA Fine-tuning",
-                "Vision-Language Models",
-                "Custom Architectures"
+                "Vision Transformers (ViT) from scratch",
+                "LoRA/QLoRA Fine-tuning techniques",
+                "Vision-Language Models (VLMs)",
+                "Custom PyTorch Architectures",
+                "CNNs, RNNs, LSTMs, Transformers"
             ],
             "generative_ai": [
-                "Multi-Agent Systems (CrewAI, LangGraph)",
-                "RAG Pipelines",
-                "LLM Fine-tuning",
-                "Prompt Engineering",
-                "AI Agents (Google ADK)"
+                "Multi-Agent Systems (CrewAI, LangGraph, PhiData)",
+                "RAG Pipelines (Pinecone, Chroma, FAISS)",
+                "LLM Applications & Prompt Engineering",
+                "AI Agents (Google ADK, AutoGen)",
+                "LangChain & LlamaIndex"
             ],
             "mlops": [
-                "Model Deployment",
-                "API Development (FastAPI)",
-                "Docker & Cloud Infrastructure",
-                "Monitoring & Logging"
+                "Model Deployment & Serving",
+                "FastAPI for ML Systems",
+                "Docker Containerization",
+                "Cloud Infrastructure (GCP, Firebase)",
+                "Streamlit & Gradio Apps"
             ]
         }
     
     def current_focus(self):
         return {
-            "building": [
-                "RAG-powered research profiling systems",
-                "Production-ready computer vision pipelines",
-                "Multi-agent AI orchestration frameworks"
+            "experimenting": [
+                "Implementing research papers in pure PyTorch",
+                "Building computer vision pipelines from scratch",
+                "Exploring multi-agent AI systems"
             ],
-            "learning": ["LLMOps", "Advanced CV techniques", "AI Safety"],
-            "contributing": ["CNCF Community", "Open Source AI Tools", "Google Developer Groups"]
+            "learning": [
+                "Advanced Computer Vision techniques",
+                "Production MLOps practices",
+                "LLM fine-tuning & optimization"
+            ],
+            "building": [
+                "RAG-powered research profiling at i3 Digital Health",
+                "Sports analytics CV systems",
+                "Open-source AI learning resources"
+            ]
         }
     
     def stats(self):
         return {
             "repositories": "47+",
-            "stars_received": "369+",
+            "stars_received": "370+",
             "production_experience": "8+ months",
-            "flagship_projects": 6
+            "research_implementations": 3
         }
 ```
 
-**AI/ML Engineer specializing in Computer Vision and Generative AI** | Building end-to-end AI systems—from implementing cutting-edge research papers in pure PyTorch to deploying production-grade solutions. Currently architecting RAG-powered research profiling platforms at **i3 Digital Health**, deploying production-grade computer vision pipelines, and contributing to the open-source AI ecosystem. Active member of **CNCF** and **Google Developer Groups**.
+**AI/ML Engineer** building end-to-end AI systems—from implementing research papers in pure PyTorch to deploying production solutions. Currently working at **i3 Digital Health** on RAG-powered research profiling platforms. Passionate about **learning by building**: implementing Vision Transformers, LoRA fine-tuning, and multi-agent systems from first principles. Active in **CNCF** and **Google Developer Groups**.
 
 ---
 
-### 🔭 Currently Working On
+### Currently Working On
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🏥 **Research Intelligence Platform**
+**Research Intelligence Platform**
 - RAG-powered researcher profiling system
 - Processing 200+ user queries with FastAPI
 - Multi-modal data extraction & analysis
@@ -99,11 +107,11 @@ class HarshTomar:
 </td>
 <td width="50%">
 
-#### 👁️ **Computer Vision Pipeline**
-- Real-time object detection & tracking
-- 95% player detection accuracy (YOLOv8)
-- Multi-sport analysis framework
-- Automated annotation pipeline (90% time reduction)
+**Computer Vision Experiments**
+- Implementing YOLO variants from scratch
+- Multi-object tracking systems
+- Sports analytics pipelines
+- Learning advanced CV architectures
 
 </td>
 </tr>
@@ -111,7 +119,7 @@ class HarshTomar:
 
 ---
 
-### 🛠️ Technology Arsenal
+### Technology Stack
 
 <div align="center">
 
@@ -119,7 +127,7 @@ class HarshTomar:
 
 </div>
 
-#### **Core Technologies**
+#### Core Technologies
 
 <p align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
@@ -131,7 +139,7 @@ class HarshTomar:
 
 <div align="center">
 
-#### **Computer Vision & Deep Learning**
+#### Computer Vision & Deep Learning
 <p>
   <a href="https://opencv.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="50" height="50"/></a>
   <img width="12"/>
@@ -139,37 +147,39 @@ class HarshTomar:
   <img width="12"/>
   <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/></a>
   <img width="12"/>
-  <a href="https://docs.ultralytics.com/"><img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" alt="YOLO" width="90" height="50"/></a>
-  <img width="12"/>
   <a href="https://keras.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="50" height="50"/></a>
   <img width="12"/>
   <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/></a>
   <img width="12"/>
   <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/></a>
+  <img width="12"/>
+  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50"/></a>
 </p>
 
-#### **GenAI & LLM Stack**
+#### GenAI & LLM Stack
 <p>
-  <a href="https://www.langchain.com/"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="50" height="50"/></a>
+  <a href="https://www.langchain.com/"><img src="https://cdn.worldvectorlogo.com/logos/langchain.svg" alt="LangChain" width="50" height="50"/></a>
   <img width="12"/>
-  <a href="https://www.crewai.com/"><img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" alt="CrewAI" width="50" height="50"/></a>
-  <img width="12"/>
-  <a href="https://openai.com/"><img src="https://static-00.iconduck.com/assets.00/openai-icon-2021x2048-4rpe5x7n.png" alt="OpenAI" width="50" height="50"/></a>
+  <a href="https://openai.com/"><img src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" alt="OpenAI" width="50" height="50"/></a>
   <img width="12"/>
   <a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="50" height="50"/></a>
   <img width="12"/>
   <a href="https://www.pinecone.io/"><img src="https://avatars.githubusercontent.com/u/70544488?s=200&v=4" alt="Pinecone" width="50" height="50"/></a>
   <img width="12"/>
   <a href="https://www.trychroma.com/"><img src="https://avatars.githubusercontent.com/u/105031595?s=200&v=4" alt="ChromaDB" width="50" height="50"/></a>
+  <img width="12"/>
+  <a href="https://www.llamaindex.ai/"><img src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" alt="LlamaIndex" width="50" height="50"/></a>
 </p>
 
-#### **MLOps & Deployment**
+#### MLOps & Deployment
 <p>
   <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/></a>
   <img width="12"/>
   <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/></a>
   <img width="12"/>
   <a href="https://streamlit.io/"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="50" height="50"/></a>
+  <img width="12"/>
+  <a href="https://gradio.app/"><img src="https://avatars.githubusercontent.com/u/66653978?s=200&v=4" alt="Gradio" width="50" height="50"/></a>
   <img width="12"/>
   <a href="https://github.com/features/actions"><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" width="50" height="50"/></a>
   <img width="12"/>
@@ -178,19 +188,19 @@ class HarshTomar:
   <a href="https://cloud.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/></a>
 </p>
 
-#### **Development Tools**
+#### AI Development Tools
 <p>
-  <a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
-  <img width="12"/>
-  <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/></a>
-  <img width="12"/>
-  <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/></a>
-  <img width="12"/>
-  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/></a>
+  <a href="https://jupyter.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50"/></a>
   <img width="12"/>
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/></a>
   <img width="12"/>
-  <a href="https://jupyter.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50"/></a>
+  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/></a>
+  <img width="12"/>
+  <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
+  <img width="12"/>
+  <a href="https://www.anaconda.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="50" height="50"/></a>
+  <img width="12"/>
+  <a href="https://colab.research.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="50" height="50"/></a>
 </p>
 
 </div>
@@ -199,51 +209,54 @@ class HarshTomar:
 
 <div align="center">
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
 
-### Production Computer Vision Systems
+### Computer Vision Systems
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🎾 [Tennis Vision](https://github.com/HarshTomar1234/Tennis-Vision)
-**Advanced Tennis Match Analysis System**
+**[Tennis Vision](https://github.com/HarshTomar1234/Tennis-Vision)** ⭐ 21  
+*Advanced Tennis Match Analysis System*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-**Impact:** 95% player detection | 88% ball tracking | 90% time reduction
+**Technical Implementation:**
+- Custom-trained YOLOv8 model for ball detection on 1000+ annotated frames
+- ByteTrack algorithm for multi-object player tracking with Re-ID
+- Court keypoint detection using CNNs for perspective transformation
+- Shot classification model (forehand/backhand/serve) with 85%+ accuracy
+- Real-time speed calculation using homography and distance metrics
 
-🔹 Multi-object detection & tracking (players, ball, court)  
-🔹 Ball trajectory prediction & speed calculation  
-🔹 Court keypoint detection & perspective transform  
-🔹 Automated shot classification (forehand/backhand/serve)
+**Impact:** 95% player detection | 88% ball tracking | 90% annotation time reduction
 
-[View Project →](https://github.com/HarshTomar1234/Tennis-Vision) | [Technical Deep Dive →](https://www.notion.so/Tennis-Vision-25b4df040c1480d1840ad41d281672f3)
+[View Project →](https://github.com/HarshTomar1234/Tennis-Vision) | [Technical Article →](https://www.notion.so/Tennis-Vision-25b4df040c1480d1840ad41d281672f3)
 
 </td>
 <td width="50%">
 
-#### ⚽ [Field Fusion](https://github.com/HarshTomar1234/Field_Fusion)
-**Multi-Sport Computer Vision Analysis**
+**[Field Fusion](https://github.com/HarshTomar1234/Field_Fusion)**  
+*Multi-Sport Computer Vision Pipeline*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-**Impact:** 5 sports covered | 93% accuracy | Unified pipeline
+**Technical Implementation:**
+- YOLOv8 + DeepSORT for robust player tracking across camera views
+- K-means clustering in HSV color space for team segmentation
+- Optical flow-based camera movement compensation
+- Perspective transformation for accurate distance/speed metrics
+- Tactical heatmap generation for player positioning analysis
 
-🔹 Player detection & tracking (YOLO + DeepSORT)  
-🔹 Team segmentation (K-means clustering)  
-🔹 Camera movement compensation  
-🔹 Speed & distance metrics + heatmap generation
+**Supports:** Football | Basketball | Hockey | Rugby | Tennis
 
 [View Project →](https://github.com/HarshTomar1234/Field_Fusion)
 
@@ -252,41 +265,45 @@ class HarshTomar:
 <tr>
 <td width="50%">
 
-#### 🧬 [MolecuQuest](https://github.com/HarshTomar1234/MoleCuQuest)
-**AI-Powered Research Collaboration Platform**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-**Impact:** 200+ users | 1000+ research profiles | Full-stack platform
-
-🔹 Researcher collaboration tools & project management  
-🔹 Molecular data visualization  
-🔹 Real-time collaboration & paper integration  
-🔹 Production-ready deployment
-
-[View Project →](https://github.com/HarshTomar1234/MoleCuQuest)
-
-</td>
-<td width="50%">
-
-#### 🏥 [Breast Cancer Predictor](https://github.com/HarshTomar1234/BREAST-CANCER-STREAMLIT-APP)
-**Clinical ML Diagnostic System**
+**[Breast Cancer Predictor](https://github.com/HarshTomar1234/BREAST-CANCER-STREAMLIT-APP)**  
+*Clinical ML Diagnostic System*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**Impact:** 97.8% accuracy | Clinical decision support
+**Technical Implementation:**
+- Ensemble model combining Random Forest & XGBoost classifiers
+- Feature engineering on Wisconsin Breast Cancer Dataset (569 samples)
+- SMOTE for handling class imbalance
+- Hyperparameter tuning using GridSearchCV
+- Interactive Streamlit dashboard with real-time predictions
+- Feature importance visualization using SHAP values
 
-🔹 Ensemble model (Random Forest + XGBoost)  
-🔹 Feature importance analysis  
-🔹 Interactive diagnostic dashboard  
-🔹 Real-time prediction API
+**Performance:** 97.8% accuracy | 96.5% precision | 98.2% recall
 
 [View Project →](https://github.com/HarshTomar1234/BREAST-CANCER-STREAMLIT-APP)
+
+</td>
+<td width="50%">
+
+**[MolecuQuest](https://github.com/HarshTomar1234/MoleCuQuest)**  
+*Research Collaboration Platform*
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Technical Implementation:**
+- TypeScript-based full-stack architecture
+- Firebase Firestore for real-time research data sync
+- Firebase Authentication for secure user management
+- Researcher profiling system with project collaboration
+- Molecular data visualization and paper integration
+- Responsive UI for cross-device compatibility
+
+**Platform Stats:** 200+ active researchers | 1000+ research profiles
+
+[View Project →](https://github.com/HarshTomar1234/MoleCuQuest)
 
 </td>
 </tr>
@@ -298,9 +315,9 @@ class HarshTomar:
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
-### 🔬 Research Paper Implementations
+### Research Paper Implementations
 
-> Building research papers from scratch to understand the fundamentals
+Building papers from scratch to understand architectures deeply
 
 </div>
 
@@ -308,59 +325,69 @@ class HarshTomar:
 <tr>
 <td width="33%">
 
-**🔮 Vision Transformers (ViT)**
+**[Vision Transformers (ViT)](https://github.com/HarshTomar1234/vision_transformer-ViT-)**
 
-*"An Image is Worth 16x16 Words"*
+*"An Image is Worth 16x16 Words" - Google Research*
 
-Pure PyTorch implementation demonstrating patch embedding, positional encoding, and multi-head self-attention.
+**Pure PyTorch Implementation:**
+- Patch embedding layer (16x16 patches)
+- Learned positional embeddings
+- Multi-head self-attention (12 heads, 768 dim)
+- Transformer encoder blocks (12 layers)
+- MLP classification head
+- Trained on CIFAR-10/ImageNet subsets
 
+**Architecture Components:**
 ```python
-class ViT:
-    - Patch Embedding
-    - Position Embedding
-    - Transformer Encoder
-    - MLP Head
+PatchEmbedding → PositionalEncoding 
+→ TransformerEncoder(x12) 
+→ LayerNorm → MLP Head
 ```
 
-[**→ Implementation**](https://github.com/HarshTomar1234/vision_transformer-ViT-)
+[View Implementation →](https://github.com/HarshTomar1234/vision_transformer-ViT-)
 
 </td>
 <td width="33%">
 
-**⚡ LoRA & QLoRA**
+**[LoRA & QLoRA](https://github.com/HarshTomar1234/PyTorch-LoRA-QLoRA)**
 
-*Memory-Efficient Fine-tuning*
+*Memory-Efficient Fine-tuning for Large Models*
 
-From-scratch implementation of Low-Rank Adaptation for efficient model fine-tuning with minimal memory footprint.
+**From-Scratch Implementation:**
+- Low-rank decomposition matrices (r=8, 16, 32)
+- 4-bit quantization using bitsandbytes
+- Adapter layer injection into attention blocks
+- Gradient checkpointing for memory efficiency
+- Training with <10% of original parameters
 
-```python
-class LoRA:
-    - Low-Rank Matrices
-    - 4-bit Quantization
-    - Adapter Layers
-    - Efficient Training
-```
+**Memory Reduction:**
+- Full fine-tuning: 24GB VRAM
+- LoRA: 8GB VRAM (66% reduction)
+- QLoRA: 4GB VRAM (83% reduction)
 
-[**→ Implementation**](https://github.com/HarshTomar1234/PyTorch-LoRA-QLoRA)
+[View Implementation →](https://github.com/HarshTomar1234/PyTorch-LoRA-QLoRA)
 
 </td>
 <td width="33%">
 
-**👁️ VLMverse**
+**[VLMverse](https://github.com/HarshTomar1234/VLMverse)**
 
-*Vision-Language Models*
+*Vision-Language Models from Scratch*
 
-Multimodal architectures (PaLiGemma, SigLIP) bridging computer vision and NLP for unified understanding.
+**Multimodal Architectures:**
+- **PaLiGemma**: Vision encoder + Gemma LLM
+- **SigLIP**: Contrastive image-text learning
+- Vision encoder: ViT-based (CLIP-style)
+- Text encoder: Transformer decoder
+- Cross-modal attention fusion
+- Contrastive loss for image-text alignment
 
-```python
-class VLM:
-    - Image Encoder
-    - Text Encoder  
-    - Cross-Modal Fusion
-    - Joint Training
-```
+**Capabilities:**
+- Image captioning
+- Visual question answering
+- Zero-shot image classification
 
-[**→ Implementation**](https://github.com/HarshTomar1234/VLMverse)
+[View Implementation →](https://github.com/HarshTomar1234/VLMverse)
 
 </td>
 </tr>
@@ -372,18 +399,16 @@ class VLM:
 
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
-### 🤖 Multi-Agent Systems & AI Frameworks
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
+### Multi-Agent AI Systems
 
 </div>
 
-| Framework | Focus | Key Features | Repository |
-|-----------|-------|-------------|------------|
-| **AgentForge** | Multi-agent orchestration with CrewAI, LangGraph, PhiData | Agent communication, Task delegation, Workflow automation | [View Code →](https://github.com/HarshTomar1234/AgentForge) |
-| **Google ADK** | Agent Development Kit for production AI agents | Production-ready agents, Google integration, Scalable architecture | [View Code →](https://github.com/HarshTomar1234/Google-Agent-Development-kit-ADK-) |
-| **Travel Planner** | Multi-agent travel planning with Google ADK | Multi-agent coordination, Travel API integration, Smart recommendations | [View Code →](https://github.com/HarshTomar1234/Travel-Planner) |
-| **Elena Calendar** | Voice-powered AI calendar assistant | NLP, Multi-intent handling, Google Calendar API integration | [View Code →](https://github.com/HarshTomar1234/Calendar-Voice-Assistant) |
+| Framework | Technical Focus | Implementation Details | Repository |
+|-----------|----------------|----------------------|------------|
+| **[AgentForge](https://github.com/HarshTomar1234/AgentForge)** ⭐ 2 | Multi-agent orchestration frameworks | Built with CrewAI, LangGraph, PhiData. Implements task delegation, agent communication protocols, and workflow automation. Includes examples for content generation, research agents, and code review systems. | [View Code →](https://github.com/HarshTomar1234/AgentForge) |
+| **[Google ADK](https://github.com/HarshTomar1234/Google-Agent-Development-kit-ADK-)** | Production AI agent development | Uses Google's Agent Development Kit for scalable agent architecture. Implements tool calling, function execution, and context management. Production-ready deployment patterns. | [View Code →](https://github.com/HarshTomar1234/Google-Agent-Development-kit-ADK-) |
+| **[Travel Planner](https://github.com/HarshTomar1234/Travel-Planner)** | Multi-agent travel system | Orchestrates 4 specialized agents: FlightSearchAgent, HotelAgent, ItineraryAgent, BudgetAgent. Built with Google ADK, implements inter-agent communication and state management. | [View Code →](https://github.com/HarshTomar1234/Travel-Planner) |
+| **[Elena Calendar](https://github.com/HarshTomar1234/Calendar-Voice-Assistant)** | Voice-powered AI assistant | NLP-based calendar agent with multi-intent handling. Google Calendar API integration, speech recognition, context-aware responses. Built using LangChain and Google ADK. | [View Code →](https://github.com/HarshTomar1234/Calendar-Voice-Assistant) |
 
 ---
 
@@ -391,9 +416,9 @@ class VLM:
 
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 
-## 📚 Learning & Knowledge Repositories
+## Learning Repositories
 
-*Comprehensive implementations from fundamentals to production*
+*Comprehensive implementations from fundamentals to advanced architectures*
 
 </div>
 
@@ -401,64 +426,112 @@ class VLM:
 <tr>
 <td width="50%">
 
-### 🧠 Machine Learning & Deep Learning
+### [Machine Learning & Deep Learning](https://github.com/HarshTomar1234/Machine-and-Deep-Learning-NLP)
 
-Complete implementation suite covering classical ML algorithms, neural networks, CNNs, RNNs, and transformer architectures.
+**Classical ML Algorithms:**
+- Linear/Logistic Regression with gradient descent
+- SVM with kernel tricks (RBF, polynomial)
+- Decision Trees, Random Forests, XGBoost
+- K-means, DBSCAN clustering
+- PCA, t-SNE dimensionality reduction
 
-**Covers:**
-- Classical ML (Linear Regression, SVM, Decision Trees)
-- Neural Networks (MLP, CNN, RNN, LSTM, GRU)
-- Transformers & Attention Mechanisms
-- NLP Fundamentals & Advanced Techniques
+**Neural Networks:**
+- MLPs with backpropagation from scratch
+- CNNs (LeNet, AlexNet, VGG, ResNet architectures)
+- RNNs, LSTMs, GRUs for sequence modeling
+- Attention mechanisms & Transformers
+- Batch normalization, dropout, regularization
 
-[📚 Explore Repository →](https://github.com/HarshTomar1234/Machine-and-Deep-Learning-NLP)
+**NLP Implementations:**
+- Word embeddings (Word2Vec, GloVe)
+- Sequence models for text generation
+- Sentiment analysis & classification
+- Named Entity Recognition (NER)
+
+[Explore Repository →](https://github.com/HarshTomar1234/Machine-and-Deep-Learning-NLP)
 
 </td>
 <td width="50%">
 
-### 👁️ Computer Vision
+### [Computer Vision](https://github.com/HarshTomar1234/Computer-Vision)
 
-End-to-end CV implementations including object detection, segmentation, pose estimation, and tracking algorithms.
+**Object Detection:**
+- RCNN, Fast RCNN, Faster RCNN implementations
+- YOLO (v3, v5, v8) architecture deep dives
+- SSD (Single Shot Detector)
+- Non-max suppression (NMS) algorithms
+- Anchor box generation strategies
 
-**Covers:**
-- Object Detection (RCNN, YOLO, SSD)
-- Semantic & Instance Segmentation
-- Pose Estimation & Tracking
-- Image Classification & Feature Extraction
+**Segmentation:**
+- Semantic segmentation (FCN, U-Net, DeepLab)
+- Instance segmentation (Mask R-CNN)
+- Panoptic segmentation
+- Loss functions (Dice, IoU, Focal Loss)
 
-[👁️ Explore Repository →](https://github.com/HarshTomar1234/Computer-Vision)
+**Other CV Tasks:**
+- Pose estimation (OpenPose, MediaPipe)
+- Multi-object tracking (SORT, DeepSORT)
+- Image classification (transfer learning)
+- Feature extraction (SIFT, ORB, HOG)
+
+[Explore Repository →](https://github.com/HarshTomar1234/Computer-Vision)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🔥 PyTorch Deep Dive
+### [PyTorch Deep Dive](https://github.com/HarshTomar1234/torchquest)
 
-From tensor operations to custom architectures, covering training loops, optimization strategies, and deployment patterns.
+**Core PyTorch:**
+- Tensor operations & broadcasting
+- Autograd engine and computational graphs
+- Custom loss functions & optimizers
+- Learning rate schedulers
+- Mixed precision training (AMP)
 
-**Covers:**
-- Tensor Operations & Autograd
-- Custom Layers & Architectures
-- Training Loops & Optimization
-- Model Deployment & Serving
+**Model Development:**
+- Custom layer implementations
+- Model checkpointing & saving
+- Transfer learning workflows
+- Multi-GPU training (DDP, DataParallel)
+- ONNX export for deployment
 
-[🔥 Explore Repository →](https://github.com/HarshTomar1234/torchquest)
+**Training Techniques:**
+- Training loops with validation
+- Early stopping & model selection
+- Data augmentation pipelines
+- Gradient accumulation
+- TensorBoard integration
+
+[Explore Repository →](https://github.com/HarshTomar1234/torchquest)
 
 </td>
 <td width="50%">
 
-### 🔍 RAG Systems
+### [RAG Systems](https://github.com/HarshTomar1234/RAGify)
 
-Retrieval-Augmented Generation implementations with vector databases and production RAG pipelines.
+**Vector Databases:**
+- Pinecone integration & indexing
+- ChromaDB for local storage
+- FAISS for similarity search
+- Embedding generation strategies
 
-**Covers:**
-- Vector Databases (Pinecone, Chroma, FAISS)
-- Embedding Strategies
-- Retrieval Techniques
-- Production RAG Pipelines
+**RAG Pipeline Components:**
+- Document chunking strategies (fixed, semantic)
+- Embedding models (OpenAI, HuggingFace)
+- Retrieval algorithms (similarity, MMR, hybrid)
+- Reranking techniques
+- Context window optimization
 
-[🔍 Explore Repository →](https://github.com/HarshTomar1234/RAGify)
+**Production Patterns:**
+- Query preprocessing
+- Response generation with LLMs
+- Streaming responses
+- Caching strategies
+- Evaluation metrics (faithfulness, relevance)
+
+[Explore Repository →](https://github.com/HarshTomar1234/RAGify)
 
 </td>
 </tr>
@@ -468,7 +541,7 @@ Retrieval-Augmented Generation implementations with vector databases and product
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
@@ -503,20 +576,18 @@ Retrieval-Augmented Generation implementations with vector databases and product
 
 ---
 
-### 🎯 Professional Highlights
+### Professional Highlights
 
 <div align="center">
 
-| 🏆 Metric | 📈 Value |
-|-----------|----------|
+| Metric | Value |
+|--------|-------|
 | **Production AI Experience** | 8+ Months |
-| **GitHub Repositories** | 47+ Projects |
-| **Total Stars Received** | 369+ Stars |
+| **Public Repositories** | 47+ Projects |
+| **Total Stars Received** | 370+ Stars |
+| **Research Implementations** | 3 Papers (ViT, LoRA, VLMs) |
 | **Active Deployments** | 6 Production Systems |
 | **Tech Communities** | CNCF, Google Developer Groups |
-| **Specializations** | Computer Vision, GenAI, MLOps |
-
-**47 Public Repositories** | **369 Stars Earned** | **Active Contributor**
 
 </div>
 
@@ -526,7 +597,7 @@ Retrieval-Augmented Generation implementations with vector databases and product
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-## ✍️ Technical Writing
+## Technical Writing
 
 </div>
 
@@ -536,24 +607,24 @@ Retrieval-Augmented Generation implementations with vector databases and product
 
 **[Tennis Vision: Deep Dive into Sports Computer Vision](https://www.notion.so/Tennis-Vision-25b4df040c1480d1840ad41d281672f3)**
 
-*System architecture, multi-object tracking challenges, and real-time performance optimization*
+System architecture, multi-object tracking challenges, and real-time optimization
 
-- YOLOv8 implementation details
-- Multi-object tracking algorithms
-- Real-time processing optimization
-- Computer vision pipeline design
+- YOLOv8 custom training pipeline
+- Multi-object tracking implementation
+- Court keypoint detection system
+- Real-time performance optimization techniques
 
 </td>
 <td width="50%">
 
 **[Reasoning in LLMs from Scratch](https://www.notion.so/Core-Concepts-of-Reasoning-in-LLMs-from-Scratch-1de4df040c14804b9b64f034e181aa75)**
 
-*Understanding emergent reasoning capabilities and chain-of-thought mechanisms*
+Understanding emergent reasoning and chain-of-thought mechanisms
 
-- Chain-of-thought prompting
-- Reasoning architectures
-- LLM capabilities analysis
-- Practical applications
+- Chain-of-thought prompting strategies
+- Reasoning architecture patterns
+- LLM capability analysis
+- Practical applications & limitations
 
 </td>
 </tr>
@@ -563,15 +634,15 @@ Retrieval-Augmented Generation implementations with vector databases and product
 
 <div align="center">
 
-## 🧠 AI-Powered Contribution Visualization
+## AI-Powered Visualizations
 
-### 3D Neural Terrain - Contribution Landscape
+### 3D Contribution Landscape
 
 <img src="https://raw.githubusercontent.com/HarshTomar1234/HarshTomar1234/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
 
 <br>
 
-### 📈 Contribution Snake Animation
+### Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/HarshTomar1234/HarshTomar1234/output/github-contribution-grid-snake-dark.svg)
 
@@ -581,7 +652,7 @@ Retrieval-Augmented Generation implementations with vector databases and product
 
 <div align="center">
 
-### 💭 Random Dev Quote
+### Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
 
@@ -596,23 +667,18 @@ Retrieval-Augmented Generation implementations with vector databases and product
 <br>
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
 
-## 🌐 Let's Build Together
+## Let's Connect
 
-**Open to opportunities in:** AI/ML Engineering | Computer Vision | GenAI/LLMOps | ML Engineering | MLOps
+**Open to opportunities in:** AI/ML Engineering | Computer Vision | GenAI/LLMOps | MLOps
 
-**Interested in collaborating on:** Production AI systems | Open-source ML tools | Computer Vision research | Multi-agent frameworks
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'm passionate about collaborating on challenging AI projects</b> and contributing to innovative solutions that push the boundaries of what's possible with AI.</em> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+**Interested in collaborating on:** Production AI systems | Research paper implementations | Computer Vision projects | Multi-agent frameworks
 
 <br>
-<br>
 
-### "Building AI systems that don't just work—they inspire" 
+### *"Building AI systems by understanding them from first principles"*
 
-**"Building production-ready AI systems that solve real problems with measurable impact."**
+**Building production-ready AI systems that solve real problems with measurable impact.**
 
 <br>
 
@@ -620,5 +686,4 @@ Retrieval-Augmented Generation implementations with vector databases and product
 
 </div>
 
-<!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:667EEA&height=120&section=footer" />
