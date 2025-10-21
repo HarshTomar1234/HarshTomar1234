@@ -13,6 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     name: Generate 3D Contribution Profile
     
+    permissions:
+      contents: write
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
