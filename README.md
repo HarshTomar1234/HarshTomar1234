@@ -1,149 +1,237 @@
 <div align="center">
 
-# 👋 Harsh Tomar
+<!-- 3D Neural Network Animation Header -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Neural Network Animation" />
 
-**AI/ML Engineer** • Computer Vision • Deep Learning • GenAI
+# Harsh Tomar
 
-Building production-ready AI systems from research to deployment
+**AI/ML Engineer** • Building Intelligence at Scale
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-tomar-a96a38256/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://kernel-crush.netlify.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tomarharsh28303@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/kernel_crush)
+<p>
+  <a href="https://www.linkedin.com/in/harsh-tomar-a96a38256/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://kernel-crush.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:tomarharsh28303@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/kernel_crush"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=HarshTomar1234&label=Profile%20Views&color=00d9ff&style=flat-square" />
 
 </div>
 
-## 🚀 About
+---
 
-AI/ML Engineer at **i3 Digital Health** with 8+ months building production AI systems. Specialized in Computer Vision, Deep Learning, and Generative AI. Active open-source contributor with **370+ stars** across **47+ repositories**.
+## 🎯 What I Do
 
-**Current Focus:** RAG-powered research profiling • Multi-agent AI systems • Computer vision pipelines
+AI/ML Engineer at **i3 Digital Health** specializing in production-grade computer vision systems, generative AI pipelines, and MLOps infrastructure. I transform research papers into scalable solutions and build AI systems that actually ship.
 
-## 💻 Tech Stack
+**Currently:** RAG-powered research platforms • Multi-agent orchestration • Real-time CV pipelines
 
-**AI/ML**
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+---
+
+## 🛠️ Tech Arsenal
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Core ML/DL
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40" height="40"/>
 </p>
 
-**Computer Vision**
-<p>
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black" />
-<img src="https://img.shields.io/badge/Object_Detection-4285F4?style=flat" />
-<img src="https://img.shields.io/badge/Image_Segmentation-34A853?style=flat" />
-<img src="https://img.shields.io/badge/Pose_Estimation-FBBC04?style=flat" />
+</td>
+<td valign="top" width="33%">
+
+### GenAI & LLMOps
+<p align="center">
+<img src="https://cdn.worldvectorlogo.com/logos/langchain.svg" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" width="40" height="40"/>
+<img src="https://www.llamaindex.ai/favicon.ico" width="40" height="40"/>
+<img src="https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/65ba0c8e4e8e6c1e1f7c2e8e_pinecone.svg" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/100039824?s=200&v=4" width="40" height="40"/>
+<img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="40" height="40"/>
 </p>
 
-**GenAI & LLMs**
-<p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LlamaIndex-6366F1?style=flat" />
-<img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=flat" />
-<img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat" />
-<img src="https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white" />
-<img src="https://img.shields.io/badge/ChromaDB-FF6584?style=flat" />
+</td>
+<td valign="top" width="33%">
+
+### MLOps & Cloud
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
-**Development**
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" />
-</p>
+</td>
+</tr>
+</table>
 
-## 🎯 Featured Projects
+---
 
-### 🎾 [Tennis Vision](https://github.com/HarshTomar1234/Tennis-Vision) • ⭐ 21
-Advanced tennis match analysis using YOLOv8 & custom CV pipelines
-- **95%** player detection accuracy • **88%** ball tracking precision
-- Real-time shot classification (12 stroke types, 91% accuracy)
+## 🚀 Featured Work
+
+### 🎾 [Tennis Vision](https://github.com/HarshTomar1234/Tennis-Vision) • ⭐ 23
+**Advanced Computer Vision for Tennis Analytics**
+
+Production-ready system using YOLOv8 + custom CV pipelines for real-time match analysis
+- 95% player detection • 88% ball tracking • 91% shot classification (12 stroke types)
 - Position heatmaps & trajectory analysis at 30 FPS
+- Custom-trained models on 10K+ annotated frames
 
-### 🏟️ [Field Fusion](https://github.com/HarshTomar1234/Field_Fusion)
-Multi-sport computer vision platform supporting 5 sports
-- **93%** player detection • **87%** ball tracking
+`YOLOv8` `OpenCV` `PyTorch` `Real-time Processing`
+
+---
+
+### 🏟️ Field Fusion
+**Multi-Sport Computer Vision Platform**
+
+Unified CV system supporting 5 sports with adaptive tracking algorithms
+- 93% player detection • 87% ball tracking across different sports
 - K-means field segmentation • Optical flow camera compensation
 - 4K video processing at 25 FPS
 
-### 🧬 [MolecuQuest](https://github.com/HarshTomar1234/MoleCuQuest)
-Research collaboration platform connecting 200+ biologists
-- ML-powered researcher matching (84% satisfaction)
-- Real-time messaging & document sharing
-- Integration with 5 major research databases
+`Object Detection` `Segmentation` `Optical Flow` `Multi-Sport`
 
-### 🤖 [AgentForge](https://github.com/HarshTomar1234/AgentForge) • ⭐ 2
-Multi-agent AI systems with CrewAI, LangGraph & PhiData
-- Orchestrator, explorer & coder agents
+---
+
+### 🧬 MolecuQuest
+**AI-Powered Research Collaboration Platform**
+
+Connecting 200+ biologists through ML-powered matching and knowledge graphs
+- 84% researcher satisfaction • Real-time collaboration tools
+- NLP-based paper analysis • Integration with 5 research databases
+- RAG system for intelligent paper recommendations
+
+`NLP` `RAG` `Knowledge Graphs` `Research Tech`
+
+---
+
+### 🤖 AgentForge • ⭐ 2
+**Multi-Agent AI Systems Framework**
+
+Production-ready multi-agent orchestration with CrewAI, LangGraph & PhiData
+- Orchestrator, explorer & coder agents working in harmony
 - 60% reduction in development time
-- 15+ hands-on examples & tutorials
+- 15+ hands-on examples & production patterns
 
-### 🏥 [Breast Cancer Predictor](https://github.com/HarshTomar1234/BREAST-CANCER-STREAMLIT-APP)
-ML diagnostic tool with interactive Streamlit dashboard
-- **97%** accuracy using ensemble methods
-- SHAP explanations for interpretability
-- Serving 100+ medical professionals
+`Multi-Agent` `LangGraph` `CrewAI` `AI Orchestration`
 
-## 📚 Research Implementations
+---
 
-Building papers from scratch in pure PyTorch:
+## 📚 Research → Production
 
-**[Vision Transformers (ViT)](https://github.com/HarshTomar1234/vision_transformer-ViT-)** • Patch embeddings • Multi-head attention • 12-layer transformer
+Building SOTA papers from scratch in PyTorch:
 
-**[LoRA & QLoRA](https://github.com/HarshTomar1234/PyTorch-LoRA-QLoRA)** • Low-rank adaptation • 4-bit quantization • 83% memory reduction
+<table>
+<tr>
+<td width="50%">
 
-**[VLMverse](https://github.com/HarshTomar1234/VLMverse)** • Vision-language models • PaLiGemma • SigLIP • Image captioning & VQA
+**[Vision Transformers (ViT)](https://github.com/HarshTomar1234/vision_transformer-ViT-)**
+- Patch embeddings from scratch
+- Multi-head self-attention
+- 12-layer transformer architecture
+- Trained on ImageNet subset
 
-## 📊 GitHub Stats
+</td>
+<td width="50%">
 
-<div align="center">
+**[LoRA & QLoRA Fine-tuning](https://github.com/HarshTomar1234/PyTorch-LoRA-QLoRA)**
+- Low-rank adaptation implementation
+- 4-bit quantization
+- 83% memory reduction
+- Production deployment patterns
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarshTomar1234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshTomar1234&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="48%" />
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-</div>
+**[VLMverse](https://github.com/HarshTomar1234/VLMverse)**
+- Vision-language models
+- PaLiGemma & SigLIP
+- Image captioning & VQA
+- Multi-modal understanding
 
-<div align="center">
+</td>
+<td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshTomar1234&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="48%" />
+**[Autogradless Transformer](https://github.com/HarshTomar1234/autogradless-transformer)**
+- GPT-2 training without autograd
+- Manual backpropagation
+- Gradient checking with finite differences
+- Deep learning fundamentals
 
-</div>
+</td>
+</tr>
+</table>
 
-## 🌟 Experience
+---
 
-**AI Intern** @ i3 Digital Health • *May 2025 - Present*
-- Built RAG-powered research profiling system aggregating 10,000+ papers
+## 💼 Experience
+
+**AI Intern** @ **i3 Digital Health** • *May 2024 - Present*
+- Built RAG-powered research profiling system aggregating 10K+ papers
 - NLP pipelines with 92% accuracy in topic classification
 - Deployed scalable AI solutions serving 500+ researchers
 - 85% reduction in manual research time
 
-**Community Contributor** @ CNCF & Google Developer Groups • *Jan 2023 - Present*
+**Community Contributor** @ **CNCF & Google Developer Groups** • *Jan 2023 - Present*
 - Active in 15+ cloud-native technology discussions
 - Presented at 2 tech talks on AI/ML best practices
-- Mentored 10+ junior developers
+- Mentored 10+ junior developers in ML engineering
 
-## 🎓 Education
+---
 
-**B.Tech in AI & Data Science** • Lakshmi Narain College of Technology, Bhopal • *2022-2026*
-
-**Certifications:** Machine Learning Specialization (Udemy) • Generative AI (Google Cloud)
-
-## 📫 Let's Connect
-
-Open to collaborations on AI/ML projects, research implementations, and open-source contributions!
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsh-tomar-a96a38256/)
+<img src="https://github-readme-stats.vercel.app/api?username=HarshTomar1234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshTomar1234&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshTomar1234&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshTomar1234&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9" width="49%" />
+
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+**B.Tech in AI & Data Science** • Lakshmi Narain College of Technology, Bhopal • *2022-2026*
+
+**Certifications:**
+- Machine Learning Specialization (Udemy)
+- Generative AI with Google Cloud
+- Deep Learning Specialization (in progress)
+
+---
+
+## 📫 Let's Build Together
+
+Open to collaborations on:
+- Production ML/CV systems
+- Research paper implementations
+- Open-source AI projects
+- MLOps infrastructure
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-tomar-a96a38256/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kernel-crush.netlify.app)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomarharsh28303@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kernel_crush)
 
-<img src="https://komarev.com/ghpvc/?username=HarshTomar1234&label=Profile%20Views&color=00d9ff&style=flat" />
+---
+
+*"Building AI systems that don't just work in notebooks, but ship to production."*
 
 </div>
