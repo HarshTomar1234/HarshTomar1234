@@ -7,8 +7,9 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-tomar-a96a38256)
+
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/kernel_crush)
-[![GitHub](https://img.shields.io/github/followers/HarshTomar1234?style=flat&logo=github&label=Follow&color=181717)](https://github.com/HarshTomar1234)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://kernel-crush.netlify.app)
 
 </div>
@@ -27,22 +28,65 @@ AI/ML Engineer passionate about building end-to-end AI systems. I believe in und
 
 <div align="center">
 
-#### Languages & Core
+#### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,bash,js,typescript" />
+</p>
+
+#### ML/AI Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="HuggingFace"/>
+</p>
+
+#### Computer Vision
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv" />
+</p>
+<p>
+  <code>YOLOv5-v8</code> <code>Object Detection</code> <code>Image Segmentation</code> <code>DeepSORT</code> <code>ByteTrack</code> <code>Optical Flow</code>
 </p>
 
 #### GenAI & LLM
 <p>
   <img src="https://skillicons.dev/icons?i=langchain" />
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="HuggingFace"/>
-  <img src="https://avatars.githubusercontent.com/u/70544488?s=48" width="48" height="48" alt="Pinecone" style="border-radius:8px"/>
   <img src="https://avatars.githubusercontent.com/u/130722866?s=48" width="48" height="48" alt="LlamaIndex" style="border-radius:8px"/>
 </p>
-
-#### MLOps & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,fastapi,gcp,firebase,github,linux" />
+  <code>CrewAI</code> <code>LangGraph</code> <code>AG2 (AutoGen)</code> <code>RAG</code> <code>Prompt Engineering</code> <code>OpenAI API</code>
+</p>
+
+#### Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
+</p>
+<p>
+  <code>Seaborn</code> <code>Statistical Analysis</code> <code>Feature Engineering</code> <code>A/B Testing</code>
+</p>
+
+#### Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,vscode,jupyter,vim,linux" />
+</p>
+<p>
+  <code>Streamlit</code> <code>FastAPI</code> <code>Flask</code> <code>Gradio</code>
+</p>
+
+#### Cloud & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,netlify,vercel,githubactions" />
+</p>
+<p>
+  <code>EC2</code> <code>S3</code> <code>Lambda</code> <code>CI/CD</code> <code>MLflow</code> <code>DVC</code>
+</p>
+
+#### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+</p>
+<p>
+  <code>Pinecone</code> <code>Chroma</code> <code>FAISS</code> <code>Vector Databases</code>
 </p>
 
 </div>
@@ -56,15 +100,17 @@ AI/ML Engineer passionate about building end-to-end AI systems. I believe in und
 <td width="50%" valign="top">
 
 #### [Tennis Vision](https://github.com/HarshTomar1234/Tennis-Vision) ★ 23
-Real-time tennis match analysis system
+Real-time tennis match analysis system with advanced computer vision
 
-- YOLOv8 custom-trained on 1000+ frames
-- ByteTrack for multi-object tracking
+- YOLOv8 custom-trained on 1000+ annotated frames
+- ByteTrack for robust multi-object tracking
 - CNN-based court homography detection
-- Shot classification: 85%+ accuracy  
+- Shot classification: 85%+ accuracy
 - Player detection: 95% | Ball tracking: 88%
+- Mini-court tactical visualization
+- Real-time speed & distance analytics
 
-`Python` `YOLOv8` `OpenCV` `PyTorch`
+`Python` `YOLOv8` `OpenCV` `PyTorch` `ByteTrack`
 
 [![Demo](https://img.shields.io/badge/🤗_Live_Demo-Tennis_Vision-blue)](https://huggingface.co/spaces/Coddieharsh/tennis-vision)
 
@@ -72,14 +118,17 @@ Real-time tennis match analysis system
 <td width="50%" valign="top">
 
 #### [Field Fusion](https://github.com/HarshTomar1234/Field_Fusion)
-Multi-sport CV analysis pipeline
+Multi-sport CV analysis pipeline for football/soccer
 
-- YOLOv8 + DeepSORT tracking
-- K-means team identification (HSV)
+- YOLOv8 + DeepSORT tracking pipeline
+- K-means team identification using HSV color
 - Optical flow camera compensation
 - Tactical heatmap generation
+- Player possession & movement analysis
+- Perspective transformation for top-view
+- Ball control & pass detection
 
-`Python` `YOLO` `DeepSORT` `OpenCV`
+`Python` `YOLO` `DeepSORT` `OpenCV` `Supervision`
 
 [![Demo](https://img.shields.io/badge/🤗_Live_Demo-Field_Fusion-blue)](https://huggingface.co/spaces/Coddieharsh/field-fusion)
 
@@ -89,14 +138,16 @@ Multi-sport CV analysis pipeline
 <td width="50%" valign="top">
 
 #### [Histopathology Analysis](https://github.com/HarshTomar1234/breast-cancer-histopathology-analysis)
-Deep learning medical imaging system
+Deep learning medical imaging system for cancer detection
 
 - Binary classification: benign/malignant
-- Grad-CAM heatmaps for explainability
-- OpenCV feature extraction
-- Auto-generated PDF reports
+- Grad-CAM heatmaps for model explainability
+- OpenCV feature extraction pipeline
+- Auto-generated PDF diagnostic reports
+- Transfer learning with pretrained CNNs
+- Flask web interface for predictions
 
-`TensorFlow` `OpenCV` `Flask` `Grad-CAM`
+`TensorFlow` `OpenCV` `Flask` `Grad-CAM` `Keras`
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?logo=github)](https://github.com/HarshTomar1234/breast-cancer-histopathology-analysis)
 
@@ -104,14 +155,16 @@ Deep learning medical imaging system
 <td width="50%" valign="top">
 
 #### [MolecuQuest](https://github.com/HarshTomar1234/MoleCuQuest)
-AI-powered molecular research platform
+AI-powered molecular research & drug discovery platform
 
 - NVIDIA MolMIM for molecule generation
 - RDKit 3D molecular visualization
-- PubChem API integration
-- CMA-ES + QED scoring
+- PubChem API integration for data
+- CMA-ES optimization + QED scoring
+- Interactive molecular property explorer
+- Firebase backend for user sessions
 
-`TypeScript` `Next.js` `Firebase` `RDKit`
+`TypeScript` `Next.js` `Firebase` `RDKit` `NVIDIA NIMs`
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?logo=github)](https://github.com/HarshTomar1234/MoleCuQuest)
 
@@ -121,14 +174,16 @@ AI-powered molecular research platform
 <td width="50%" valign="top">
 
 #### [QuantaAI](https://github.com/HarshTomar1234/QuantaAI)
-Conversational AI with real-time search
+Conversational AI with real-time web search capabilities
 
 - LangGraph agentic architecture
 - Real-time web search integration
-- GPT-4 powered responses
-- Live search visualization
+- GPT-4 powered intelligent responses
+- Live search visualization UI
+- Multi-turn conversation memory
+- FastAPI backend + Next.js frontend
 
-`LangGraph` `Next.js` `FastAPI` `GPT-4`
+`LangGraph` `Next.js` `FastAPI` `GPT-4` `OpenAI API`
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?logo=github)](https://github.com/HarshTomar1234/QuantaAI)
 
@@ -136,14 +191,16 @@ Conversational AI with real-time search
 <td width="50%" valign="top">
 
 #### [DeepGuard](https://github.com/HarshTomar1234/DeepGuard-MLOps-Pipeline)
-Deepfake Detection MLOps Pipeline
+Production-ready Deepfake Detection MLOps Pipeline
 
 - EfficientNet-based image classifier
 - DVC pipeline for data versioning
-- MLflow tracking on DagsHub
+- MLflow experiment tracking on DagsHub
+- Automated CI/CD with GitHub Actions
+- Docker containerized deployment
 - Deployed on Hugging Face Spaces
 
-`TensorFlow` `DVC` `MLflow` `Docker`
+`TensorFlow` `DVC` `MLflow` `Docker` `CI/CD`
 
 [![Demo](https://img.shields.io/badge/🤗_Live_Demo-DeepGuard-blue)](https://huggingface.co/spaces/Coddieharsh/DeepGuard)
 
