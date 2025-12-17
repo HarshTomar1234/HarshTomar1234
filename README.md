@@ -41,10 +41,9 @@ AI/ML Engineer passionate about building end-to-end AI systems. I believe in und
 <p>
   <img src="https://skillicons.dev/icons?i=opencv" />
   <img src="https://avatars.githubusercontent.com/u/53104118?s=48" width="48" height="48" alt="Roboflow" style="border-radius:8px"/>
-  <img src="https://raw.githubusercontent.com/roboflow/supervision/develop/docs/static/img/supervision-lenny.png" width="48" height="48" alt="Supervision" style="border-radius:8px"/>
 </p>
 <p>
-  <code>YOLOv5-v8</code> <code>Object Detection</code> <code>Image Segmentation</code> <code>DeepSORT</code> <code>ByteTrack</code> <code>Optical Flow</code>
+  <code>Supervision</code> <code>YOLOv5-v8</code> <code>Object Detection</code> <code>Image Segmentation</code> <code>DeepSORT</code> <code>ByteTrack</code> <code>Optical Flow</code>
 </p>
 
 #### GenAI & LLM
@@ -52,9 +51,12 @@ AI/ML Engineer passionate about building end-to-end AI systems. I believe in und
   <img src="https://skillicons.dev/icons?i=langchain" />
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="HuggingFace"/>
   <img src="https://avatars.githubusercontent.com/u/130722866?s=48" width="48" height="48" alt="LlamaIndex" style="border-radius:8px"/>
+  <img src="https://avatars.githubusercontent.com/u/170677839?s=48" width="48" height="48" alt="CrewAI" style="border-radius:8px"/>
+  <img src="https://avatars.githubusercontent.com/u/14957082?s=48" width="48" height="48" alt="OpenAI" style="border-radius:8px"/>
+  <img src="https://avatars.githubusercontent.com/u/76263028?s=48" width="48" height="48" alt="Anthropic" style="border-radius:8px"/>
 </p>
 <p>
-  <code>CrewAI</code> <code>LangGraph</code> <code>AG2 (AutoGen)</code> <code>RAG</code> <code>Prompt Engineering</code> <code>OpenAI API</code>
+  <code>LangGraph</code> <code>AG2 (AutoGen)</code> <code>Agno</code> <code>RAG</code> <code>DeepSeek</code> <code>Prompt Engineering</code> <code>OpenAI API</code>
 </p>
 
 #### Data Science
