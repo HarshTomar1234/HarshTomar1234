@@ -7,9 +7,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-tomar-a96a38256)
-
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/kernel_crush)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://kernel-crush.netlify.app)
 
 </div>
@@ -42,6 +40,8 @@ AI/ML Engineer passionate about building end-to-end AI systems. I believe in und
 #### Computer Vision
 <p>
   <img src="https://skillicons.dev/icons?i=opencv" />
+  <img src="https://avatars.githubusercontent.com/u/53104118?s=48" width="48" height="48" alt="Roboflow" style="border-radius:8px"/>
+  <img src="https://raw.githubusercontent.com/roboflow/supervision/develop/docs/static/img/supervision-lenny.png" width="48" height="48" alt="Supervision" style="border-radius:8px"/>
 </p>
 <p>
   <code>YOLOv5-v8</code> <code>Object Detection</code> <code>Image Segmentation</code> <code>DeepSORT</code> <code>ByteTrack</code> <code>Optical Flow</code>
@@ -59,15 +59,18 @@ AI/ML Engineer passionate about building end-to-end AI systems. I believe in und
 
 #### Data Science
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/>
 </p>
 <p>
-  <code>Seaborn</code> <code>Statistical Analysis</code> <code>Feature Engineering</code> <code>A/B Testing</code>
+  <code>Seaborn</code> <code>Scikit-learn</code> <code>Statistical Analysis</code> <code>Feature Engineering</code> <code>A/B Testing</code>
 </p>
 
 #### Development Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,vscode,jupyter,vim,linux" />
+  <img src="https://skillicons.dev/icons?i=git,docker,vscode,vim,linux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/>
 </p>
 <p>
   <code>Streamlit</code> <code>FastAPI</code> <code>Flask</code> <code>Gradio</code>
