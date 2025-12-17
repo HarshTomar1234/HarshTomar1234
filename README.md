@@ -6,9 +6,10 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-tomar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-tomar-a96a38256)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/kernel_crush)
 [![GitHub](https://img.shields.io/github/followers/HarshTomar1234?style=flat&logo=github&label=Follow&color=181717)](https://github.com/HarshTomar1234)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://harshtomar.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://kernel-crush.netlify.app)
 
 </div>
 
@@ -54,7 +55,7 @@ AI/ML Engineer passionate about building end-to-end AI systems. I believe in und
 <tr>
 <td width="50%" valign="top">
 
-#### [Tennis Vision](https://github.com/HarshTomar1234/Tennis-Vision) `⭐ 23`
+#### [Tennis Vision](https://github.com/HarshTomar1234/Tennis-Vision) ★ 23
 Real-time tennis match analysis system
 
 - YOLOv8 custom-trained on 1000+ frames
@@ -97,6 +98,8 @@ Deep learning medical imaging system
 
 `TensorFlow` `OpenCV` `Flask` `Grad-CAM`
 
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?logo=github)](https://github.com/HarshTomar1234/breast-cancer-histopathology-analysis)
+
 </td>
 <td width="50%" valign="top">
 
@@ -109,6 +112,8 @@ AI-powered molecular research platform
 - CMA-ES + QED scoring
 
 `TypeScript` `Next.js` `Firebase` `RDKit`
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?logo=github)](https://github.com/HarshTomar1234/MoleCuQuest)
 
 </td>
 </tr>
@@ -124,6 +129,8 @@ Conversational AI with real-time search
 - Live search visualization
 
 `LangGraph` `Next.js` `FastAPI` `GPT-4`
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?logo=github)](https://github.com/HarshTomar1234/QuantaAI)
 
 </td>
 <td width="50%" valign="top">
@@ -162,7 +169,7 @@ Building architectures from scratch to truly understand them.
 
 | Project | Description |
 |---------|-------------|
-| [AgentForge](https://github.com/HarshTomar1234/AgentForge) `⭐ 2` | Multi-agent orchestration with CrewAI, LangGraph, PhiData |
+| [AgentForge](https://github.com/HarshTomar1234/AgentForge) ★ 2 | Multi-agent orchestration with CrewAI, LangGraph, PhiData |
 | [Travel Planner](https://github.com/HarshTomar1234/Travel-Planner) | 4-agent system: Flight, Hotel, Itinerary, Budget |
 | [Google ADK](https://github.com/HarshTomar1234/Google-Agent-Development-kit-ADK-) | Production agent patterns with Google ADK |
 
@@ -204,9 +211,10 @@ Comprehensive implementations from fundamentals to SOTA:
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-tomar)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshtomar6754@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://harshtomar.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-tomar-a96a38256)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kernel_crush)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomarhasrh28303@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://kernel-crush.netlify.app)
 
 <br>
 
