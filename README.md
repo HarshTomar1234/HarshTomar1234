@@ -18,7 +18,7 @@
 
 AI/ML Engineer passionate about building end-to-end AI systems. I believe in understanding AI by implementing from scratch — from Vision Transformers to multi-agent architectures.
 
-**Focus:** Computer Vision • Research Implementations • GenAI & Agents • MLOps
+**Focus:** Computer Vision • Research Implementations • GenAI & Agents • MLOps & LLMOps
 
 ---
 
