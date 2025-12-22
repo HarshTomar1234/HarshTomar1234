@@ -115,7 +115,7 @@ Real-time tennis match analysis system with advanced computer vision
 - Mini-court tactical visualization
 - Real-time speed & distance analytics
 
-`Python` `YOLOv8` `OpenCV` `PyTorch` `ByteTrack`
+`Python` `YOLOv8` `OpenCV` `PyTorch` `ByteTrack` `Supervision`
 
 [![Demo](https://img.shields.io/badge/🤗_Live_Demo-Tennis_Vision-blue)](https://huggingface.co/spaces/Coddieharsh/tennis-vision)
 
@@ -205,7 +205,7 @@ Production-ready Deepfake Detection MLOps Pipeline
 - Docker containerized deployment
 - Deployed on Hugging Face Spaces
 
-`TensorFlow` `DVC` `MLflow` `Docker` `CI/CD`
+`TensorFlow` `DVC` `MLflow` `Docker` `CI/CD` `AWS S3 & EC3` `EKS Deployment` `Prometheus` `Grafana`
 
 [![Demo](https://img.shields.io/badge/🤗_Live_Demo-DeepGuard-blue)](https://huggingface.co/spaces/Coddieharsh/DeepGuard)
 
