@@ -104,7 +104,7 @@ AI/ML Engineer passionate about building end-to-end AI systems. I believe in und
 <tr>
 <td width="50%" valign="top">
 
-#### [Tennis Vision](https://github.com/HarshTomar1234/Tennis-Vision) ★ 23
+#### [Tennis Vision](https://github.com/HarshTomar1234/Tennis-Vision) ★ 25
 Real-time tennis match analysis system with advanced computer vision
 
 - YOLOv8 custom-trained on 1000+ annotated frames
@@ -221,7 +221,7 @@ Building architectures from scratch to truly understand them.
 
 | Paper | Implementation | Key Details |
 |-------|----------------|-------------|
-| **Vision Transformer** | [ViT](https://github.com/HarshTomar1234/vision_transformer-ViT-) | 16×16 patch embedding, 12-layer encoder, multi-head attention |
+| **Vision Transformer** | [ViT](https://github.com/HarshTomar1234/vision_transformer-ViT-) ★ 1 | 16×16 patch embedding, 12-layer encoder, multi-head attention |
 | **LoRA & QLoRA** | [PyTorch-LoRA](https://github.com/HarshTomar1234/PyTorch-LoRA-QLoRA) | Low-rank adaptation, 4-bit quantization, 83% VRAM reduction |
 | **Vision-Language Models** | [VLMverse](https://github.com/HarshTomar1234/VLMverse) | PaLiGemma, SigLIP, cross-modal attention fusion |
 
@@ -232,7 +232,7 @@ Building architectures from scratch to truly understand them.
 | Project | Description |
 |---------|-------------|
 | [AgentForge](https://github.com/HarshTomar1234/AgentForge) ★ 2 | Multi-agent orchestration with CrewAI, LangGraph, PhiData |
-| [Travel Planner](https://github.com/HarshTomar1234/Travel-Planner) | 4-agent system: Flight, Hotel, Itinerary, Budget |
+| [Travel Planner](https://github.com/HarshTomar1234/Travel-Planner) ★ 1 | 4-agent system: Flight, Hotel, Itinerary, Budget |
 | [Google ADK](https://github.com/HarshTomar1234/Google-Agent-Development-kit-ADK-) | Production agent patterns with Google ADK |
 
 ---
