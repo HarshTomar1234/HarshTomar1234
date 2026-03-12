@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Harsh%20Tomar&fontSize=60&fontAlignY=35&desc=AI%20Engineer%20•%20Computer%20Vision%20•%20Deep%20Learning&descSize=18&descAlignY=55&fontColor=ffffff" width="100%"/>
 
