@@ -232,7 +232,7 @@ Building architectures from scratch to truly understand them.
 | Project | Description |
 |---------|-------------|
 | [AgentForge](https://github.com/HarshTomar1234/AgentForge) ★ 2 | Multi-agent orchestration with CrewAI, LangGraph, PhiData |
-| [Travel Planner](https://github.com/HarshTomar1234/Travel-Planner) ★ 1 | 4-agent system: Flight, Hotel, Itinerary, Budget |
+| [Travel Planner](https://github.com/HarshTomar1234/Travel-Planner) ★ 2 | 4-agent system: Flight, Hotel, Itinerary, Budget |
 | [Google ADK](https://github.com/HarshTomar1234/Google-Agent-Development-kit-ADK-) | Production agent patterns with Google ADK |
 
 ---
