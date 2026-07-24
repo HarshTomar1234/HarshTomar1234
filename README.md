@@ -57,6 +57,7 @@ AI/ML Engineer passionate about building end-to-end AI systems. I believe in und
 </p>
 <p>
   <code>LangGraph</code> <code>AG2 (AutoGen)</code> <code>Agno</code> <code>RAG</code> <code>DeepSeek</code> <code>Prompt Engineering</code> <code>OpenAI API</code>
+<code>Context Engineering</code> 
 </p>
 
 #### Data Science
