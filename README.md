@@ -246,6 +246,7 @@ Comprehensive implementations from fundamentals to SOTA:
 - **[Computer Vision](https://github.com/HarshTomar1234/Computer-Vision)** — RCNN, YOLO, U-Net, Mask R-CNN, tracking
 - **[PyTorch Deep Dive](https://github.com/HarshTomar1234/torchquest)** — Autograd, custom layers, DDP, AMP
 - **[RAG Systems](https://github.com/HarshTomar1234/RAGify)** — Vector DBs, chunking, retrieval, production patterns
+- **[Transformers-CV](https://github.com/HarshTomar1234/transformers-cv))** — ViT, DETR, SAM, SWIN, TimeSformer, Flamingo VLM, Diffusion paper breakdown
 
 ---
 
