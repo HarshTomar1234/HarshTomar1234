@@ -105,7 +105,7 @@ AI/ML Engineer passionate about building end-to-end AI systems. I believe in und
 <tr>
 <td width="50%" valign="top">
 
-#### [Tennis Vision](https://github.com/HarshTomar1234/Tennis-Vision) ★ 63
+#### [Tennis Vision](https://github.com/HarshTomar1234/Tennis-Vision) ★ 64
 Real-time tennis match analysis system with advanced computer vision
 
 - YOLOv8 custom-trained on 1000+ annotated frames
